@@ -151,7 +151,7 @@ body {
 }
 .product-actual-price {
   font-size: 1.25rem;
-  margin-left: 1rem;
+  margin-left: 0.8rem;
   text-decoration: line-through;
   vertical-align: middle;
 }
@@ -164,6 +164,7 @@ body {
   background-color: var(--card-price-button-color);
   color: var(--card-bg-color);
   font-size: 14px;
+  font-family: "Montserrat", sans-serif;
   border-radius: 0.5rem;
   vertical-align: middle;
 }
